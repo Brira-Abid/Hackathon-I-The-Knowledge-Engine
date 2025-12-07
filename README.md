@@ -8,8 +8,8 @@ This interactive textbook teaches computer vision fundamentals through AI-native
 Quick Start
 1. **Read the textbook**: [Book.pdf](https://github.com/Brira-Abid/Hackathon-I-The-Knowledge-Engine/blob/main/Hackathon%20I_%20The%20Knowledge%20Engine.pdf)
 2. **Run interactive notebooks**: 
-   - [Chapter 1: How Robots See](chapters/chapter1.ipynb)
-   - [Chapter 2: Edge Detection](chapters/chapter2.ipynb)
+   - [Chapter 1: How Robots See]([chapters/chapter1.ipynb](https://github.com/Brira-Abid/Hackathon-I-The-Knowledge-Engine/blob/main/Hackathon1_ch1.ipynb))
+   - [Chapter 2: Edge Detection]([chapters/chapter2.ipynb](https://github.com/Brira-Abid/Hackathon-I-The-Knowledge-Engine/blob/main/Hackathon1_ch2.ipynb))
 3. **Experiment** with the code
 4. **Try the challenges** in each chapter
 
