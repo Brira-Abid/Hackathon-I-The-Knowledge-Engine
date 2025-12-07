@@ -6,10 +6,10 @@ AI-Native Textbook: Computer Vision for Humanoid Robotics
 This interactive textbook teaches computer vision fundamentals through AI-native learning. Created for beginners interested in Physical AI and Humanoid Robotics.
 
 Quick Start
-1. **Read the textbook**: [Book.pdf](https://github.com/Brira-Abid/Hackathon-I-The-Knowledge-Engine/blob/main/Hackathon%20I_%20The%20Knowledge%20Engine.pdf)
+1. **Read the textbook**: [Book.pdf](Hackathon I_ The Knowledge Engine.pdf)
 2. **Run interactive notebooks**: 
-   - [Chapter 1: How Robots See]([chapters/chapter1.ipynb](https://github.com/Brira-Abid/Hackathon-I-The-Knowledge-Engine/blob/main/Hackathon1_ch1.ipynb))
-   - [Chapter 2: Edge Detection]([chapters/chapter2.ipynb](https://github.com/Brira-Abid/Hackathon-I-The-Knowledge-Engine/blob/main/Hackathon1_ch2.ipynb))
+   - [Chapter 1: How Robots See]([chapters/chapter1.ipynb](Hackathon1_ch1.ipynb)
+   - [Chapter 2: Edge Detection]([chapters/chapter2.ipynb](Hackathon1_ch2.ipynb)
 3. **Experiment** with the code
 4. **Try the challenges** in each chapter
 
