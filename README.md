@@ -8,8 +8,10 @@ This interactive textbook teaches computer vision fundamentals through AI-native
 Quick Start
 1. **Read the textbook**: [Book.pdf](Hackathon I_ The Knowledge Engine.pdf)
 2. **Run interactive notebooks**: 
-   - [Chapter 1: How Robots See]([chapters/chapter1.ipynb](Hackathon1_ch1.ipynb)
-   - [Chapter 2: Edge Detection]([chapters/chapter2.ipynb](Hackathon1_ch2.ipynb)
+| Chapter | Description | Try it Live |
+|---------|-------------|-------------|
+| Chapter 1 | How Robots See - Pixels as Numbers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zXIOUib5r8BL5Fp_1r2SkzM9g8IPF4Eb?usp=sharing) |
+| Chapter 2 | Edge Detection - Finding Shapes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E1Oj5iHlLlYp-QscWWD8mE-OqwVe1IrX?usp=sharing) |
 3. **Experiment** with the code
 4. **Try the challenges** in each chapter
 
